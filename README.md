@@ -1,27 +1,21 @@
-# Hi, I'm Abdullah al Masum 👋
+> whoami  
+Hey, I'm Masum — Flutter Enthusiast 🚀 | Backend Explorer 🧠
 
-**Mobile App Developer · Flutter Enthusiast**
+> current_focus --lang go  
+🔧 Learning Go for scalable backend development  
+🛠️ Built a full backend system with features like user auth, role management, and time-based data handling  
+📦 Exploring clean architecture, RESTful APIs, and DB design  
 
-[LinkedIn](http://linkedin.com/in/dev-masum)
+> experience --role "Flutter Dev"  
+📱 Flutter Developer at Relaxy Ltd  
+🧩 Shipped 5+ mental health apps (B2C, B2B, Admin tools)  
+🔒 Skilled with Firebase, complex UIs, and scalable mobile features  
 
-Flutter developer with 3+ years' experience building scalable, user-focused apps using Flutter, Dart, Firebase, and REST APIs.
+> now_playing  
+🎬 Sci-fi | 🧭 Ancient artifacts | 🧠 Space-time thrillers  
+🎮 Valorant | ♟️ Chess | 🧘‍♂️ Minimalist mindset  
 
----
-
-**Tech:**  
-Flutter · Dart · Firebase · REST API · BLoC · GetX · TypeScript
-
----
-
-**Projects:**  
-- [flutter_bkash](https://pub.dev/packages/flutter_bkash)  
-- [Relaxy – Smart Self Care](https://play.google.com/store/apps/details?id=com.relaxy.app)  
-- [Relaxy Wellbeing (B2B)](https://play.google.com/store/apps/details?id=com.relaxy.pro)  
-- [Astute](https://play.google.com/store/apps/details?id=com.banglafire.astute)
-
----
-
-📧 abdullahalmasum.dev@gmail.com  
-📍 Dhaka, Bangladesh
-
-<sub>Full CV: [cvrest.com/cv/abdullahalmasum_dev](https://cvrest.com/cv/abdullahalmasum_dev)</sub>
+> goals -y 2025  
+- ✅ Build backend with Go  
+- ⏳ Start contributing to Go OSS  
+- 🔜 Land hybrid or backend-focused role
