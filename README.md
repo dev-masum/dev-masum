@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Abdullah al Masum 👋
 
-<!--
-**dev-masum/dev-masum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Mobile App Developer · Flutter Enthusiast**
 
-Here are some ideas to get you started:
+[LinkedIn](http://linkedin.com/in/dev-masum)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Flutter developer with 3+ years' experience building scalable, user-focused apps using Flutter, Dart, Firebase, and REST APIs.
+
+---
+
+**Tech:**  
+Flutter · Dart · Firebase · REST API · BLoC · GetX · TypeScript
+
+---
+
+**Projects:**  
+- [flutter_bkash](https://pub.dev/packages/flutter_bkash)  
+- [Relaxy – Smart Self Care](https://play.google.com/store/apps/details?id=com.relaxy.app)  
+- [Relaxy Wellbeing (B2B)](https://play.google.com/store/apps/details?id=com.relaxy.pro)  
+- [Astute](https://play.google.com/store/apps/details?id=com.banglafire.astute)
+
+---
+
+📧 abdullahalmasum.dev@gmail.com  
+📍 Dhaka, Bangladesh
+
+<sub>Full CV: [cvrest.com/cv/abdullahalmasum_dev](https://cvrest.com/cv/abdullahalmasum_dev)</sub>
